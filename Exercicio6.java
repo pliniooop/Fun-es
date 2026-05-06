@@ -1,3 +1,4 @@
+pedro henrique de carvalho servulo
 public class Exercicio6 {
 
     // (a) retorna o maior valor do vetor
